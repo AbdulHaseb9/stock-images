@@ -1,5 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Martian+Mono:wght@100..800&family=Quicksand:wght@300..700&family=Space+Grotesk:wght@300..700&display=swap");
+
 #root {
   max-width: 1600px;
   margin: 0;
-  padding: 0;
+  padding: 20px;
+  background-color: #f6f6f4;
+  font-family: "Quicksand", sans-serif;
 }
